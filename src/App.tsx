@@ -45,6 +45,16 @@ export function App() {
 
       <main>
         <section>
+          <Octocat
+            name="Terracottocat"
+            number="149"
+            image="https://octodex.github.com//images/Terracottocat_Single.png"
+            link="https://octodex.github.com//terracottocat/"
+            imageAlt="Terracottocat"
+            authorImage="https://github.com/chubbmo.png"
+            authorLink="https://github.com/chubbmo"
+            authorAlt="chubbmo"
+          />
           <article>
             <a href="https://octodex.github.com//terracottocat/">
               <img
